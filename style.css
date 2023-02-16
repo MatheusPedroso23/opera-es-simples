@@ -1,0 +1,46 @@
+    body {
+        background-color: black;
+    }
+
+
+
+
+        #btnSubtrair{
+            color: red;
+            background-color: aliceblue;
+            border-color: red;
+        }
+        #btnDividir{
+            color: green;
+            background-color: aliceblue;
+            border-color: green;
+        }
+        #btnMultiplicar{
+            color: blue;
+            background-color: aliceblue;
+            border-color: blue;
+        }
+        #btnSomar{
+            color: brown;
+            background-color: aliceblue;
+            border-color: brown;
+            
+        }
+
+        #number1{
+            color: red;
+            border-color: red;
+        }
+        
+        #number2{
+            color: red;
+            border-color: red;
+        }
+        #teste1{
+            color: white;
+            border-color: blue;
+        }
+        #teste2{
+            color: aliceblue;
+        }
+        
